@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LabCurConv.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LabCurConv_lt_lb_www_ExchangeRates" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://www.lb.lt/webservices/exchangerates/exchangerates.asmx</Value>
+    </Setting>
+    <Setting Name="LabCurConv_com_w3schools_www_TempConvert" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://www.w3schools.com/xml/tempconvert.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
